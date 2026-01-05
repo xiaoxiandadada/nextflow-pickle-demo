@@ -1,0 +1,11 @@
+# Nextflow generated files
+.nextflow/
+.nextflow.log*
+work/
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# DS_Store
+.DS_Store
