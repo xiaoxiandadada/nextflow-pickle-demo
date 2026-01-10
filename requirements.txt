@@ -1,0 +1,4 @@
+numpy
+# Optional (enable for real training):
+torch
+tqdm
